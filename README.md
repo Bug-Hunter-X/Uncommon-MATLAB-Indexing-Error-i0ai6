@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon MATLAB error related to indexing. The `myFunction` attempts to handle cases with single values and matrices, but it contains an indexing error leading to unexpected outputs when handling multidimensional arrays. The solution shows corrected indexing and improved error handling.
